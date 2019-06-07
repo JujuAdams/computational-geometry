@@ -1,2 +1,2 @@
-# computational-geometry
-Nearest point on path, path smoothing, geometry simplification, sprite edge tracing
+# Computational Geometry
+Example that demos nearest point on path, path smoothing, geometry simplification, and sprite edge tracing.
